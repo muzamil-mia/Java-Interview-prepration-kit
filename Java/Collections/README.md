@@ -1,0 +1,29 @@
+# Collection Questions 
+- What is collection framework? Why do we need collection framework?
+- What are the core interfaces of the Collection Framework? Can you explain the key interfaces like Collection, List, Set, Map, and their differences?
+- What is the difference between Collection and Collections?
+- What is the difference between ArrayList and LinkedList? When would you prefer one over the other?
+- What is the difference between ArrayList and Vector?
+- How does HashMap work internally? Can you explain its hashing mechanism and the process of collision resolution?
+- What is the difference between Iterator and ListIterator?
+- What is fail-fast behavior in collections? Can you give an example?
+- What is the difference between HashMap and Hashtable? Why is Hashtable considered obsolete?
+- How would you synchronize a HashMap in a multi-threaded environment?
+- What is the difference between Comparable and Comparator? When would you use one over the other? 
+- What is the difference between Queue and Deque? 
+- How does PriorityQueue work? What is its time complexity for insertion and deletion?
+- How would you implement your own HashMap? What are the key components you need to consider?
+- What is a WeakHashMap and when would you use it?
+- Explain the CopyOnWriteArrayList. When is it appropriate to use it?
+- What is the difference between HashMap and IdentityHashMap?
+- How does the Collections utility class help with collections? Can you give some examples?
+- What is the List interface’s role in the Collection Framework? How does it differ from Set?
+- How do ArrayList and LinkedList differ in terms of performance and use cases?
+- What is the difference between TreeSet and HashSet?
+- Explain the concept of Comparator and how it differs from Comparable.
+- What is the Queue interface and how does it differ from Deque?
+- How does PriorityQueue work and what are its main characteristics?
+- What are the differences between ArrayList and Vector?
+- Explain how EnumSet works and when to use it.
+- How does Collections.unmodifiableList() work?
+- 
