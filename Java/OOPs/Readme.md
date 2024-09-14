@@ -1,0 +1,20 @@
+# Object-Oriented Programming(OOPs) Interview Questions
+- Why is Composition preferred over Inheritance?  
+- Is Java a pure object-oriented language?Is Java a pure object-oriented language?
+- What is the method hiding in Java?
+- Can we override the static method in Java?
+- Can we override a private or final method in Java?
+- Can we override constructor in Java?
+- Can we override a non-abstract method in an abstract class?
+- Can we override a synchronized method with a non-synchronized one?
+- Explain Covariant Return Type in method overriding with example?
+- Can we make a class abstract without an abstract method?
+- Can we make a class both final and abstract at the same time?
+- Can we overload or override the main method in Java?
+- What is @Override annotation in method overriding? What would happen if you omit this annotation?
+- Why can't you use return in a constructor? What would happen if you tried?
+- What happens if you call super() and this() in the same constructor?
+- Can We Define an Interface Within a Class?
+- Can We Define a Class Within an Interface
+- Can an Interface Have Constructors?
+- How do you decide if an inner class is required?
