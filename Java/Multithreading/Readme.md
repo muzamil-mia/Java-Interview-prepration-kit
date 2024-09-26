@@ -1,1 +1,21 @@
-ECHO is on.
+# Multithreading
+- What is multithreading?
+- Difference between thread and process
+- What are the main advantages of multithreading?
+- Describe the lifecycle of a thread in Java.
+- What is the role of the Runnable interface and the Thread class in Java?
+- What is the purpose of the synchronized keyword?
+- What are the differences between wait(), notify(), and notifyAll() methods?
+- What is a thread pool, and how does it work?
+- Explain the concept of deadlock and how it can be avoided.
+- What are the differences between CountDownLatch and CyclicBarrier?
+- can we start thread more than once?
+- You have threads T1, T2, and T3, how will you ensure that thread T2 run after T1 and thread T3 run after T2?
+- Can we run a thread twice in Java?
+- Why wait, notify and notifyAll is defined in Object Class and not on Thread class in Java?
+- What are the different ways to achieve synchronization in Java?
+- How do you handle thread interruption in Java?
+- Difference Between synchronized and ReentrantLock?
+- Difference Between visibility and atomicity in multithreading?
+- What happens when an exception occurs inside a synchronized block?
+- 
